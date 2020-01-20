@@ -1,0 +1,26 @@
+#Tells conda version:
+conda --version
+
+#Compare current installed conda with the most stable version, and, if differents, asks you for update:
+conda update conda
+
+#Lists conda environments (base and those you created):
+conda info --envs
+
+#Activate the environment you want to work with:
+conda activate base
+
+#Tells Python version of the activated environment:
+python --version
+
+#Create a new environment:
+conda create --name snakes python=3.5
+
+#Searches for a new package in conda remote repositories:
+conda search beautifulsoup4
+
+#Lists all the packages you current have (see if you have beautifulsoup4):
+conda list
+
+#Installs a desired package:
+conda install beautifulsoup4

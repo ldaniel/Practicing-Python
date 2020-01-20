@@ -1,0 +1,24 @@
+##########################################################################################################################################
+Anaconda Navigator
+------------------------------------------------------------------------------------------------------------------------------------------
+Anaconda Navigator is a graphical user interface to the conda package and environment manager.
+http://docs.anaconda.com/anaconda/user-guide/getting-started/
+
+##########################################################################################################################################
+Conda 
+------------------------------------------------------------------------------------------------------------------------------------------
+Conda is a powerful package manager and environment manager that you use with command line commands at the Anaconda Prompt for Windows, or
+ in a Terminal window for macOS or Linux.
+https://conda.io/docs/user-guide/getting-started.html
+
+##########################################################################################################################################
+JupyterLab 
+------------------------------------------------------------------------------------------------------------------------------------------
+JupyterLab is the next-generation web-based user interface for Project Jupyter.
+https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
+https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html
+
+##########################################################################################################################################
+Pyspark on JupyterLab 
+------------------------------------------------------------------------------------------------------------------------------------------
+https://changhsinlee.com/install-pyspark-windows-jupyter/
